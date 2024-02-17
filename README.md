@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theeaglefreak&label=Profile%20views&color=0e75b6&style=flat" alt="theeaglefreak" /> </p>
 
-- 🌱 I’m currently learning ***
-
 - 💬 Ask me about **Test Automation**
 
 - 📫 How to reach me **soumyarsamal2420@gmail.com**
